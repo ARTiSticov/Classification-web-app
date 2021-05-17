@@ -1,4 +1,4 @@
-# Classification-web-app
+# Ultimate-Classification-Web-App
 
 Here is the link to the Web App using Streamlit :  
 https://share.streamlit.io/artisticov/ultimate-classification-web-app/main/main.py

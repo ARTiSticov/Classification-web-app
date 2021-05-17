@@ -12,11 +12,11 @@ Breast Cancer Prediction
 -Person Body Type 
 
 # Machine Learning Classifiers used :
-KNN 
--SVM 
--Kernel SVM 
--Naive Bayes 
--Decision Tree 
--Random Forest  
--XGBoost 
+KNN  
+-SVM  
+-Kernel SVM  
+-Naive Bayes  
+-Decision Tree  
+-Random Forest   
+-XGBoost  
 
